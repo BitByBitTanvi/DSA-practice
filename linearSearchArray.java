@@ -1,3 +1,5 @@
+// Java compiles your source code (linearSearchArray.java) into bytecode, and stores that bytecode in a file called: linearSearchArray.class
+
 import java.util.*;
 
 public class linearSearchArray {
