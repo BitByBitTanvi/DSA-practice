@@ -31,6 +31,9 @@ public class Array {
         if (count == 0) {
             System.out.println("Number not found in the array.");
         }
+
+        // count tracks how many times the number is found.
+        // If count == 0, that means it wasn't found at all.
     }
 }
 
